@@ -27,3 +27,5 @@ print("Lista zakupów")
 for sklep, lista in shopping2.items():
     print(f"Idę do {sklep.capitalize()}, kupuję tu następujące rzeczy: {lista}")
 print("W sumie kupuję " + str(length) + " produktów.")
+
+print("udało się?")
