@@ -29,3 +29,4 @@ for sklep, lista in shopping2.items():
 print("W sumie kupuję " + str(length) + " produktów.")
 
 print("udało się?")
+print("udało się!")
