@@ -30,3 +30,4 @@ print("W sumie kupuję " + str(length) + " produktów.")
 
 print("udało się?")
 print("udało się!")
+print("Dzięki za pomoc z tymi zerami i jedynkami!")
